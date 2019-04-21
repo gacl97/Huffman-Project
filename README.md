@@ -1,4 +1,4 @@
-# Huffman_2
+# Huffman
 Huffman codes
 
 ### Para executar o programa no linux:
